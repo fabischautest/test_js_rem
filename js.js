@@ -1,1 +1,1 @@
-alert("test 1");
+$exe('vm');
